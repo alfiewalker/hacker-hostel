@@ -7,4 +7,4 @@ The PowerPoint give the overview of the technology stack I was introducing to th
 [The program in the news](https://www.looptt.com/content/investt-welcomes-hacker-hostel-trinidad-and-tobago)
 
 ---
-[alt text](hacker-hostel.jpg)
+![The students and myself along with another mentor](hacker-hostel.jpg)
